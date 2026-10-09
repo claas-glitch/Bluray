@@ -1,5 +1,5 @@
 // Bei Änderungen an der App diese Nummer erhöhen, damit iPhones die neue Version laden.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const SHELL = `shell-${VERSION}`;
 const IMAGES = 'tmdb-images';
 const FILES = [
